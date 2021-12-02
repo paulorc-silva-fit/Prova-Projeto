@@ -24,6 +24,9 @@
   * Possui clareza;
   * Possui comentários/documentação explicando o funcionamento do projeto.
 
+* ### Execução:
+  * Para dar início ao programa, basta executar o arquivo App.java.
+  
 ## Equipe:
 * Geovane Donizete Laera..........................RA: 1902679
 * Isaque Ribeiro dos Santos Junior..........RA: 1903978
